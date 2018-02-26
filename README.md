@@ -12,4 +12,8 @@ python3 getIpa.py xxx
 
 
 ####TODO
-[]选择下载 ipa包
+
+* [ ] 集成下载 ipa包
+* [ ] 修改 ipa 包名
+
+
